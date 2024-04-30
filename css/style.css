@@ -1,0 +1,638 @@
+body{
+	color: black;
+}
+.navbar-light .navbar-toggler-icon {
+    background-image: url(../img/hamburger.png);
+    }
+.top-bar{
+	background-color: #FC9803;
+	color: white;
+}
+.top-bar-border{
+	border-right: 2px solid white;
+	padding-top: 12px;
+}
+.top-bar-left{
+	padding-top: 12px;
+}
+.patient{
+    margin-left: 110px;
+}
+.carrer{
+	margin-left: 0px;
+}
+.logo-section{
+	margin-top: 35px;
+	margin-bottom: 25px;
+	color: black;
+}
+.logo-section-right{
+	margin-top: 25px;
+	
+}
+.search-bar{
+    width: 240px;
+    margin-left: -90px;
+}
+.search-btn{
+	margin-left: -6px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+}
+.address{
+    color: gray;
+    font-weight: 500;
+}
+.phone-icon{
+	background-color: #160F72;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+}
+.number{
+	color: #82A8D4;
+}
+.nav-bg{
+	background-color: #121F5A;
+	color: white;
+}
+.menu-margin{
+	margin-left: 50px;
+	color: white;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, 
+.navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link 
+{
+    color: white;
+}
+ .navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+.req-text{
+	background-color: #F99C14;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #63A5D4;
+    border-top: 2px solid #63A5D4;
+}
+.navbar-light .navbar-nav .req-hover:hover {
+    color: white;
+	background-color: #bf4f05;
+	border: 1px solid #bf4f05;
+}
+.dr-sohigh{
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+.cstm-fa-plus{
+	font-size: 25px;
+    margin-top: 10px;
+
+}
+.dr-sohigh-text{
+	margin-left: -65px;
+}
+.cbd-right{
+	text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: black;
+}
+.final-text{
+    font-weight: 900;
+ 
+}
+.email-bar{
+	width: 300px!important;
+}
+.sign-btn{
+	background-color: #26B1B8;
+    border: 1px solid #26B1B8;
+    padding: 6px 20px;
+    margin-left: -3px;
+    color: white;
+    font-weight: 600;
+}
+.launch-text{
+	text-align: center;
+    margin-top: 50px;
+}
+.cbd{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.partner{
+	background-color: #0A185B;
+
+}
+.partner-img{
+	margin: 25px 0px;
+}
+.why-left{
+	margin-left: -200px;
+}
+.cstm-fa-plus2 {
+   font-size: 25px;
+    margin-top: 32px;
+    margin-left: 1px;
+    color: #45BCC1;
+    margin-bottom: 30px;
+}
+.clr{
+	background-color: #45BCC1;
+    height: 5px;
+    margin-top: 41px;
+}
+.why-head{
+    text-align: center;
+    margin: 60px 0px;
+    font-weight: 900;
+}
+.why-pera{
+	color: black;
+    letter-spacing: 1px;
+    line-height: 30px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+.third-party{
+font-weight: 700;
+}
+.lab-btn{
+	color: white;
+    background-color: black;
+    border: 1px solid black;
+    padding: 10px 50px;
+    font-weight:600;
+    margin-left: 75px;
+}
+
+.lab-btn:hover{
+	text-decoration: none;
+	color: white;
+}
+.why{
+	margin-bottom: 50px;
+}
+.organically-text{
+	margin-top:80px;
+    font-weight: 700;
+}
+.why-right{
+	margin-left: 0px;
+}
+.why-pera2 {
+    color: black;
+    letter-spacing: 1px;
+    line-height: 30px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+.healthy{
+    font-weight: 700;
+}
+.cbd-work{
+	background-color: #F2F2EE;
+}
+.cbd-img{
+	    margin-top: -45px;
+        width: 70%;
+}
+.cbd-head{
+	text-align: center;
+	margin-top: 100px;
+        font-weight: 900;
+    font-size: 55px;
+}
+.cbd-sub-head{
+	text-align: center;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+.cbd-pera{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 20px;
+
+}
+.cbd-work-pera{
+    font-size: 22px;
+    color: black;
+}
+
+.online-soon{
+	background-color: #121E5B;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: -73px;
+}
+.coming-soon{
+    font-size: 35px;
+}
+.leaf-img{
+	margin-top: -320px;
+    margin-left: -165px;
+}
+.meet{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.dr-name{
+	text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 25px;
+}
+.qstn{
+    text-align: center;
+    margin-bottom: 80px;
+    font-weight: 800;
+}
+
+
+.accordio-sec::before,
+.accordio-sec::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+.accordio-sec{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.accordiaon-container{
+    width: 100%;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+.accordion-item{
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+.accordion-link{
+    font-size: 1.6rem;
+    color:black;
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
+.accordion-link:hover{
+    font-size: 1.6rem;
+    color:black;
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
+.accordion-link i{
+    padding: .5rem;
+    background-color:#26B1B8;
+    border-radius: 25px;
+}
+.accordion-link .minus{
+    display: none;
+}
+.answer{
+    max-height: 0;
+    overflow: hidden;
+    position: relative;
+    transition:max-height 650ms; 
+
+}
+
+.answer p{
+   
+    color: gray;
+
+}
+.accordion-item:target .answer{
+    max-height: 20rem;
+}
+.accordion-item:target .accordion-link .plus{
+    display: none;
+}
+.accordion-item:target .accordion-link .minus{
+    display: block;
+}
+
+.footer-icon ul li {
+    display: inline;
+    list-style: none;
+    padding: 10px;
+}
+.footer-text{
+    font-size: 13px;
+    color: gray;
+}
+.cstm-footer-icon{
+    background-color:#bf4f05;
+    padding: 7px 10px;
+    border-radius: 23px;
+    color: white;
+}
+.footer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+@media (min-width: 320px) and (max-width:520px){
+    .carrer {
+    margin-left: 0px;
+}
+.patient {
+     margin-left: 0px;
+}
+.address {
+    color: gray;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+.search-bar {
+    width: 240px;
+    margin-left: 0px;
+}
+.dr-sohigh-text {
+    margin-left: 0px;
+}
+.email-bar {
+    width: 300px!important;
+    margin-left: 35px;
+}
+.sign-btn {
+    background-color: #26B1B8;
+    border: 1px solid #26B1B8;
+    padding: 6px 20px;
+    margin-left: -3px;
+    color: white;
+    font-weight: 600;
+    margin-top: -16px;
+}
+.launch-text {
+    text-align: center;
+    margin-top: 15px;
+}
+.partner-img {
+    margin: 25px 0px;
+    width: 80px;
+}
+.third-party {
+    margin-top: 28px;
+    
+}
+.why-left {
+    margin-left: 0px;
+    margin-bottom: -15px;
+    margin-top: -20px;
+}
+.why-right {
+    margin-left: 0px;
+    margin-top: -25px;
+}
+.healthy {
+    font-weight: 700;
+    margin-top: 30px;
+}
+.organically-text {
+    margin-top: 45px;
+    font-weight: 700;
+}
+.cbd-img {
+    margin-top: -45px;
+    width: 70%;
+    margin-left: 130px;
+}
+}
+
+
+@media (min-width: 521px) and (max-width:768px){
+    .carrer {
+    margin-left: 0px;
+}
+.patient {
+    margin-left: 0px;
+}
+.search-bar {
+    width: 240px;
+     margin-left: 0px;
+}
+.top-bar-border {
+    border-right: 0px solid white;
+    padding-top: 12px;
+}
+.number {
+    color: #82A8D4;
+    margin-left: -22px;
+}
+.dr-sohigh-text {
+    margin-left: 0px;
+}
+.final-text {
+    margin-left: 55px;
+    font-weight: 900;
+}
+.email-bar {
+    width: 300px!important;
+    margin-left: 55px;
+}
+
+.launch-text {
+    text-align: center;
+    margin-top: 27px;
+}
+.third-party {
+    margin-top: 1;
+    margin-top: 30px;
+}
+.why-left {
+    margin-left: 0px;
+    margin-top: -25px;
+}
+.healthy {
+    font-weight: 700;
+    margin-top: 25px;
+}
+.organically-text {
+     margin-top: 55px; 
+    font-weight: 700;
+}
+.cbd-img {
+    margin-top: -11px;
+    width: 70%;
+    margin-left: 148px;
+}
+.leaf-img {
+    margin-top: -320px;
+    margin-left: -211px;
+    width: 80%;
+}
+
+}
+
+
+
+@media (min-width: 769px) and (max-width:991px){
+
+.address {
+    color: gray;
+    font-weight: 500;
+    margin-left: -224px;
+    margin-top: -2px;
+    margin-bottom: 0px;
+}
+
+.phone-icon {
+    background-color: #160F72;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+    margin-left: -121px;
+    margin-top: -27px;
+}
+.patient {
+    margin-left: 0px;
+}
+.number {
+    color: #82A8D4;
+    margin-left: -90px;
+    margin-top: -24px;
+}
+.search-bar {
+    width: 170px;
+    margin-left: -102px;
+}
+.carrer {
+    margin-left: -14px;
+}
+.dr-sohigh-text {
+    margin-left: -25px;
+}
+
+.email-bar {
+    width: 226px!important;
+    margin-left: -58px;
+}
+
+.launch-text {
+    margin-left: -60px;
+    text-align: center;
+    margin-top: 30px;
+}
+.why-left {
+    margin-top: -35px;
+    margin-left: -141px;
+    margin-bottom: -18px;
+}
+
+.cstm-fa-plus2 {
+    font-size: 25px;
+    margin-top: 32px;
+    margin-left: -13px;
+    color: #45BCC1;
+    margin-bottom: 30px;
+}
+.why-pera {
+   color: black;
+    letter-spacing: 1px;
+    line-height: 17px;
+    margin-bottom: 50px;
+    font-size: 16px
+}
+
+.lab-btn {
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    padding: 7px 50px;
+    font-weight: 600;
+    margin-left: -3px;
+}
+
+.why-right {
+    /* margin-left: 0px; */
+    margin-top: -33px;
+    margin-left: -155px;
+    margin-bottom: -27px;
+}
+.why-pera2 {
+    color: black;
+    letter-spacing: 1px;
+    line-height: 22px;
+    margin-bottom: 50px;
+    font-size: 16px;
+}
+
+.online-soon {
+    background-color: #121E5B;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: -40px;
+}
+
+.leaf-img {
+    margin-top: -150px;
+    margin-left: -104px;
+}
+
+
+}
+
+
+
+@media (min-width: 991px) and (max-width:1350px){
+.menu-margin {
+    margin-left: 17px;
+    color: white;
+}
+
+.address {
+    color: gray;
+    font-weight: 500;
+    margin-left: -195px;
+}
+
+.phone-icon {
+    background-color: #160F72;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+    margin-left: -127px;
+}
+.email-bar {
+    width: 260px!important;
+}
+.number {
+    color: #82A8D4;
+    margin-left: -95px;
+    margin-top: -25px;
+}
+.search-bar {
+    width: 240px;
+    margin-left: -124px;
+}
+.patient{
+       margin-left: 0px; 
+}
+.leaf-img {
+    margin-top: -188px;
+    margin-left: -151px;
+}
+}
+
